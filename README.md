@@ -1,6 +1,10 @@
-## Olá, eu sou o Felipe 😁
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo(a)+ao+meu+Github!)](https://git.io/typing-svg)
 
-- 🚀 Atualmente estou em busca de um emprego na área de desenvolvimento web full stack
+## Olá, eu sou o Felipe
+
+- Estou em busca de um emprego na área de desenvolvimento web full stack
+- Aqui você pode encontrar diversos projetos que realizei, alguns individuais e outros em grupo.
+- Meu estudo atualmente está sendo sobre AWS
 
 ### Tecnologias trabalhadas
 ##
