@@ -1,4 +1,4 @@
-## Olá, eu sou o Felipe dos Santos 😁
+## Olá, eu sou o Felipe 😁
 
 - 🚀 Atualmente estou em busca de um emprego na área de desenvolvimento web full stack
 
