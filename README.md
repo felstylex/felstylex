@@ -4,7 +4,7 @@
  
 - Estou em busca de um emprego na área de desenvolvimento full stack
 - Aqui você pode encontrar diversos projetos que realizei, alguns individuais e outros em grupo.
-- Meu estudo atualmente está sendo sobre Kotlin e desenvolvimento android
+- Meu estudo atualmente está sendo sobre Kotlin e desenvolvimento android 
 
 ### Tecnologias trabalhadas
 ##
